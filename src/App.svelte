@@ -1,4 +1,4 @@
-<script lang="ts">
+<script lang="js">
 </script>
 
 <main>Svelte Starter Template</main>
